@@ -1,0 +1,8 @@
+Template: Hugo Blox Academic CV
+Official repository: https://github.com/HugoBlox/hugo-theme-academic-cv
+Upstream commit: a3b263aa67e22e05c8012a4c9bdf69fd76ccf240
+Template acquired: 2026-10-11
+Hugo Extended: 0.162.0
+Theme: github.com/HugoBlox/kit/modules/blox v0.0.0-20260527025321-61f41d3667f1
+Customizations: personal author data, bilingual homepage, research interests, navigation, and GitHub Pages configuration.
+License: see LICENSE.md.

@@ -1,0 +1,16 @@
+en:
+  locale: en-us
+  contentDir: content/en
+  weight: 1
+  menus:
+    main:
+    - name: About
+      url: /#about
+      weight: 10
+    - name: Research
+      url: /#research
+      weight: 20
+    - name: Contact
+      url: /#contact
+      weight: 30
+  label: English

@@ -1,0 +1,6 @@
+allowBuilds:
+  '@parcel/watcher': set this to true or false
+# @parcel/watcher uses the platform-specific prebuilt optional package here.
+# Static Hugo builds do not need its fallback native compilation script.
+ignoredBuiltDependencies:
+  - '@parcel/watcher'

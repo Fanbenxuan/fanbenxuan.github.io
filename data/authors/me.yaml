@@ -1,0 +1,32 @@
+# 个人资料：已更新身份、学校和简介；邮箱及头像尚待补充。
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Benson Fan
+  given: Benson
+  family: Fan
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+role: PhD Student
+bio: |-
+  I am currently a first-year PhD student in [the School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm) at [Nanjing University](https://www.nju.edu.cn/), supervised by [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html) and [Prof. Hao Zhu](https://pakfa.github.io/zhuhao_photo.github.io/). I studied Optoelectronic Information Science and Engineering at Tongji University from 2022 to 2026.
+
+  My research interests include differentiable optical design, fisheye lens imaging, and computational spectral imaging. I use deep optics techniques to design new imaging systems.
+affiliations:
+- name: Nanjing University
+  url: https://www.nju.edu.cn/
+links:
+- icon: brands/github
+  url: https://github.com/Fanbenxuan
+  label: GitHub
+interests:
+- Differentiable optical design
+- Fisheye lens imaging
+- Computational spectral imaging
+education: []
+experience: []
+skills: []
+languages: []
+awards: []
