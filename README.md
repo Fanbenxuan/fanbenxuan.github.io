@@ -14,4 +14,4 @@ The GitHub Pages workflow builds the actual Hugo project. In repository settings
 Build: `pnpm install --frozen-lockfile`, then `pnpm run build`.
 Preview: `pnpm run dev`.
 
-The biography includes first-year PhD study at Nanjing University, supervisor links, and study in Optoelectronic Information Science and Engineering at Tongji University (2022–2026). Education history is currently included in the biography; the separate education list is empty. The BF avatar is a placeholder. Email, CV, projects, and publications have not been filled in.
+The biography includes first-year PhD study at Nanjing University, supervisor links, and study in Optoelectronic Information Science and Engineering at Tongji University (2022–2026). Education history is currently included in the biography; the separate education list is empty. The profile photo is stored in `assets/media/authors/me.png`. Email, CV, projects, and publications have not been filled in.
